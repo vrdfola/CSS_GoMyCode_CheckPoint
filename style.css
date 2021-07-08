@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+ * {
+  margin: 2.90rem  2.20rem 0 1.90rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color:#2c303a;
+  color: white;
+}
+
+h1{
+  border-bottom: solid #717790 0.40rem;
+}
+
+li {
+display: inline;
+
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+nav ul li a:hover{
+color: #717790;
+}
+
+.fela-link{
+  font-family:Helvetica;
+  font-size:20px;
+  color: grey;
+  text-decoration: none;
+}
+
+.fela-link:hover{
+  color: cyan;
+}
+
+.Contact-Us{
+  
+}
